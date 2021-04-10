@@ -553,8 +553,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"menu_principal","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_jouer","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_Info","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_quitter","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"menu_niveau","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"back_button_niveau","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Robot_background","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Back_button_ingame","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"in_all_game","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"niveau_1","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"input_lvl1","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_a","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl1_e","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"textbox","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_i","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_o","value":{"$content":16,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Feedback","value":{"$content":17,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_2","value":{"$content":18,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"image","value":{"$content":[19],"$type":"System.Collections.Generic.List`1[[UnityEngine.Texture2D,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"imagebox","value":{"$content":20,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"menu_principal","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_jouer","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_Info","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Button_quitter","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"menu_niveau","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"back_button_niveau","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Robot_background","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Back_button_ingame","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"in_all_game","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"niveau_1","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"input_lvl1","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_a","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl1_e","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"textbox","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_i","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_1_o","value":{"$content":16,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Feedback","value":{"$content":17,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"button_lvl_2","value":{"$content":18,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"image","value":{"$content":[19,20,21,22,23,24,25,26,27,28,29,30],"$type":"System.Collections.Generic.List`1[[UnityEngine.Texture2D,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"imagebox","value":{"$content":31,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 984727289}
     - {fileID: 2111490166}
@@ -575,7 +575,18 @@ MonoBehaviour:
     - {fileID: 296191908}
     - {fileID: 1576295167}
     - {fileID: 825743845}
-    - {fileID: 2800000, guid: abb745605c3340b498a4a5dc32ef7b3c, type: 3}
+    - {fileID: 2800000, guid: 98ce25209cea81443a853827c1b28150, type: 3}
+    - {fileID: 2800000, guid: 98bea0d55cd6aa54e812b249b122f206, type: 3}
+    - {fileID: 2800000, guid: b89af1c10d1ca0b4da27fcbac2b431b0, type: 3}
+    - {fileID: 2800000, guid: 7b93c816238006349b7b522951e09d32, type: 3}
+    - {fileID: 2800000, guid: b2fae31cbdaf4d249b6e28d94cf76bd3, type: 3}
+    - {fileID: 2800000, guid: 9df09ae36d02904439a4abd6d792893c, type: 3}
+    - {fileID: 2800000, guid: b39d9837fed2cdc48a2a2b5bc076ea5f, type: 3}
+    - {fileID: 2800000, guid: db5273f28c50a4b4e94a55315e3b756f, type: 3}
+    - {fileID: 2800000, guid: b34a2a37496d95c4b8e6a561ae9a11cd, type: 3}
+    - {fileID: 2800000, guid: 61e707be94d2fc9469d30f3cf5f2a1ff, type: 3}
+    - {fileID: 2800000, guid: 11eb35a8747998c4eb15273d09d7408c, type: 3}
+    - {fileID: 2800000, guid: 6842bb8b37fc0c64c82229cc26fe478a, type: 3}
     - {fileID: 698037363}
 --- !u!114 &318964788
 MonoBehaviour:
